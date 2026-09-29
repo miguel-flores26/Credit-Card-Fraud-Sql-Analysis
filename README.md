@@ -1,4 +1,4 @@
-# credit-card-fraud-sql-analysis
+# Credit-Card-Fraud-Sql-Analysis
 
 ## Business Question
 Which customer segments and merchant categories show disproportionate fraud risk and how does spending behavior change around fraudulent transactions?
